@@ -79,3 +79,5 @@ CMakeUserPresets.json
 # folder to make it easier for tools like clangd to discover.
 compile_commands.json
 .qodo
+
+.automate
